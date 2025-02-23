@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Walmart Data Analysis: End-to-End SQL + Python Project P-9
 
 ## Project Overview
@@ -134,3 +135,6 @@ This project is licensed under the MIT License.
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
 ---
+=======
+
+>>>>>>> 8cde13136e3f092aea33f38ccdc347c88956bb97
